@@ -35,7 +35,7 @@ require (
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.7.0
 	github.com/stretchr/testify v1.8.2
-	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
+	github.com/syndtr/goleveldb 126854af5e6d
 	github.com/uber/jaeger-client-go v2.24.0+incompatible
 	github.com/vmihailenco/msgpack/v5 v5.3.4
 	github.com/wealdtech/go-ens/v3 v3.5.1
