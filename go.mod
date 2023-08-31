@@ -17,7 +17,7 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.1
-	github.com/gorilla/handlers v1.4.2
+	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.5.0
 	github.com/hashicorp/go-multierror v1.1.1
@@ -54,6 +54,8 @@ require (
 	resenje.org/singleflight v0.2.0
 	resenje.org/web v0.4.3
 )
+
+require github.com/felixge/httpsnoop v1.0.1 // indirect
 
 require (
 	github.com/BurntSushi/toml v1.1.0 // indirect
