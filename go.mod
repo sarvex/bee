@@ -43,7 +43,7 @@ require (
 	go.uber.org/atomic v1.10.0
 	go.uber.org/goleak v1.1.12
 	golang.org/x/crypto v0.9.0
-	golang.org/x/exp v0.0.0-20230810033253-352e893a4cad
+	golang.org/x/exp d852ddb80c63
 	golang.org/x/net v0.10.0
 	golang.org/x/sync v0.3.0
 	golang.org/x/sys v0.9.0
