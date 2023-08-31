@@ -50,7 +50,7 @@ require (
 	golang.org/x/term v0.5.0
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 	gopkg.in/yaml.v2 v2.4.0
-	resenje.org/multex v0.1.0
+	resenje.org/multex v0.2.0
 	resenje.org/singleflight v0.2.0
 	resenje.org/web v0.4.3
 )
