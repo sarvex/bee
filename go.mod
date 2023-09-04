@@ -23,7 +23,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/golang-lru v0.5.5-0.20210104140557-80c98217689d
 	github.com/ipfs/go-cid v0.4.1
-	github.com/kardianos/service v1.2.0
+	github.com/kardianos/service v1.2.2
 	github.com/libp2p/go-libp2p v6.0.23+incompatible
 	github.com/multiformats/go-multiaddr v0.9.0
 	github.com/multiformats/go-multiaddr-dns v0.3.1
