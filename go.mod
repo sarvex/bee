@@ -5,7 +5,6 @@ go 1.20
 require (
 	contrib.go.opencensus.io/exporter/prometheus v0.4.2
 	github.com/armon/go-radix v1.0.0
-	github.com/btcsuite/btcd v0.22.1
 	github.com/casbin/casbin/v2 v2.35.0
 	github.com/coreos/go-semver v0.3.0
 	github.com/ethereum/go-ethereum v1.12.2
@@ -56,6 +55,7 @@ require (
 )
 
 require (
+	github.com/btcsuite/btcd v0.23.2 // indirect
 	github.com/btcsuite/btcd/chaincfg/chainhash v1.0.1 // indirect
 	github.com/deckarep/golang-set/v2 v2.1.0 // indirect
 	github.com/felixge/httpsnoop v1.0.1 // indirect
